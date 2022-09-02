@@ -1,1 +1,2 @@
-My first read me
+My first commit
+It's time to code!
